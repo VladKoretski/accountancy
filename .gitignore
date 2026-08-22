@@ -1,0 +1,89 @@
+# Виртуальное окружение
+venv/
+env/
+ENV/
+.venv/
+myenv/
+
+# Файлы IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+.DS_Store
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+*.log
+
+# Файлы распределения / упаковки
+build/
+dist/
+*.egg-info/
+*.egg
+MANIFEST
+*.whl
+*.tar.gz
+*.tgz
+
+# Переменные окружения и конфигурации
+.env
+.env.local
+.env.*.local
+*.local
+config.local.py
+settings.local.py
+
+# Логи
+*.log
+logs/
+*.pid
+
+# Базы данных
+*.db
+*.sqlite
+*.sqlite3
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+desktop.ini
+ehthumbs.db
+*.tmp
+
+# Файлы отчетов и тестирования
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# Файлы профилирования
+*.prof
+
+# Временные файлы
+*.tmp
+*.temp
+*.bak
+*.backup
